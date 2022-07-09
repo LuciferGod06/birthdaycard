@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background-image : linear-gradient(lightblue , maroon);
+    color: white;
+    text-shadow: 2px 0px 1px black;
+}
+
+#face-img{
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.gift-img{
+    margin: 0px auto;
+    width: 500px;
+    height: 400px;;
+    border: 10px solid black;
+    background-image: url("image/1.jpg");
+    background-size: cover;
+}
+
+#gift-gif:hover{
+    background-image: url("image/dance.gif");
+}
+
+#gift-gif1:hover{
+    background-image: url("image/tenor.gif");
+}
+
+#gift-gif2 {
+    width:400px;
+    height:600px;
+}
+
+#gift-gif2:hover{
+    background-image: url("image/lol.gif");
+}
+
+.last{
+    display: flex;
+    margin: 20px 0px;
+}
+#gift-gif3, #gift-gif4, #gift-gif5, #gift-gif6,,#gift-gif8{
+    width: 400px;
+    height: 500px;
+}
+
+
+#gift-gif3:hover{
+    background-image:url(image/first.jpg);
+}
+#gift-gif4:hover{
+    background-image:url(image/center.jpeg);
+}
+#gift-gif5:hover{
+    background-image:url(image/last.jpeg);
+}
+
+#gift-gif5:hover{
+    background-image:url(image/last.jpeg);
+}
+
+#gift-gif7:hover{
+    background-image:url(image/gifma.gif);
+}
